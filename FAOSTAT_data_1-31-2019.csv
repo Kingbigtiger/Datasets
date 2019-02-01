@@ -1,0 +1,52 @@
+﻿Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2000,2000,ha,29315740,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2001,2001,ha,27829720,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2002,2002,ha,28057160,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2003,2003,ha,28710330,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2004,2004,ha,29797730,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2005,2005,ha,30399100,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2006,2006,ha,28586490,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2007,2007,ha,35013780,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2008,2008,ha,31796490,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2010,2010,ha,32960380,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2011,2011,ha,33944990,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2012,2012,ha,35355740,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2013,2013,ha,35390550,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2014,2014,ha,33644310,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2015,2015,ha,32678310,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2016,2016,ha,35106050,,Official data
+QC,Crops,231,United States of America,5312,Area harvested,56,Maize,2017,2017,ha,33469080,,Official data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2000,2000,hg/ha,85911,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2001,2001,hg/ha,86733,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2002,2002,hg/ha,81180,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2003,2003,hg/ha,89246,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2004,2004,hg/ha,100637,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2005,2005,hg/ha,92852,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2006,2006,hg/ha,93577,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2007,2007,hg/ha,94585,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2008,2008,hg/ha,96209,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2010,2010,hg/ha,95757,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2011,2011,hg/ha,92146,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2012,2012,hg/ha,77270,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2013,2013,hg/ha,99256,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2014,2014,hg/ha,107326,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2015,2015,hg/ha,105723,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2016,2016,hg/ha,109604,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,56,Maize,2017,2017,hg/ha,110837,Fc,Calculated data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2000,2000,tonnes,251853900,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2001,2001,tonnes,241376650,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2002,2002,tonnes,227766880,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2003,2003,tonnes,256229020,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2004,2004,tonnes,299875570,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2005,2005,tonnes,282262550,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2006,2006,tonnes,267502850,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2007,2007,tonnes,331177280,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2008,2008,tonnes,305911450,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2010,2010,tonnes,315617920,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2011,2011,tonnes,312788890,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2012,2012,tonnes,273192400,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2013,2013,tonnes,351271870,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2014,2014,tonnes,361091140,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2015,2015,tonnes,345486340,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2016,2016,tonnes,384777890,,Official data
+QC,Crops,231,United States of America,5510,Production,56,Maize,2017,2017,tonnes,370960390,,Official data
